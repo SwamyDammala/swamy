@@ -10,7 +10,7 @@ const Header = () => {
       <TopNavbar />
       <div className="name">
         <h1>
-          It's a <span>ReactJS</span> website
+          It's a <span>Front End</span> application build on React Js
         </h1>
         <p className="details">
           It is a long established fact that a reader will be distracted by the
